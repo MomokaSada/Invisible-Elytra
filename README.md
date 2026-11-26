@@ -9,7 +9,27 @@ Minecraft Bedrock Edition 用の不可視エリトラ（リソースパック）
 1. [Releases](https://github.com/MomokaSada/Invisible-elytra/releases) から `Invisible-elytra.mcpack` をダウンロード
 2. ダブルクリックで Minecraft にインポート
 
-詳しい使い方は [使い方](使い方.md) を参照してください。
+## 使い方
+
+### 対応バージョン
+
+- Minecraft Bedrock Edition 1.17.30 以上（manifest の min_engine_version に準拠）
+
+### 有効化
+
+1. `Invisible-elytra.mcpack` をダウンロードする
+2. ファイルをダブルクリックし、Minecraft にインポートする
+3. Minecraft を起動し、設定 → グローバルリソース またはワールド設定 → リソースパック から「Invisible elytra」を有効化する
+
+### 効果
+
+- エリトラを装備した際、見た目が透明になります
+- 他のプレイヤーからも透明に見えます
+
+### 注意事項
+
+- リソースパックのため、サーバー側の設定や他のパックとの競合で表示が変わる場合があります
+- 透明化は見た目のみで、飛行性能などは変更されません
 
 ## リリースの作り方
 

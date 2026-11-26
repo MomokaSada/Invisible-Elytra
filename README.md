@@ -1,4 +1,4 @@
-# Invisible elytra
+# Invisible-Elytra
 
 Minecraft Bedrock Edition 用の不可視エリトラ（リソースパック）です。
 
@@ -6,7 +6,7 @@ Minecraft Bedrock Edition 用の不可視エリトラ（リソースパック）
 
 ## インストール
 
-1. [Releases](https://github.com/MomokaSada/Invisible-elytra/releases) から `Invisible-elytra.mcpack` をダウンロード
+1. [Releases](https://github.com/MomokaSada/Invisible-Elytra/releases) から `Invisible-Elytra.mcpack` をダウンロード
 2. ダブルクリックで Minecraft にインポート
 
 ## 使い方
@@ -17,9 +17,9 @@ Minecraft Bedrock Edition 用の不可視エリトラ（リソースパック）
 
 ### 有効化
 
-1. `Invisible-elytra.mcpack` をダウンロードする
+1. `Invisible-Elytra.mcpack` をダウンロードする
 2. ファイルをダブルクリックし、Minecraft にインポートする
-3. Minecraft を起動し、設定 → グローバルリソース またはワールド設定 → リソースパック から「Invisible elytra」を有効化する
+3. Minecraft を起動し、設定 → グローバルリソース またはワールド設定 → リソースパック から「Invisible-Elytra」を有効化する
 
 ### 効果
 

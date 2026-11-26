@@ -24,7 +24,7 @@ jobs:
       - name: Build mcpack
         run: |
           cd resource_pack
-          zip -r ../Invisible-elytra.mcpack . -x "*.DS_Store" -x "*/.DS_Store" -x "Thumbs.db"
+          zip -r ../Invisible-Elytra.mcpack . -x "*.DS_Store" -x "*/.DS_Store" -x "Thumbs.db"
 
       - name: Determine release tag
         id: tag
@@ -41,5 +41,5 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.tag.outputs.name }}
-          files: Invisible-elytra.mcpack
+          files: Invisible-Elytra.mcpack
           generate_release_notes: true

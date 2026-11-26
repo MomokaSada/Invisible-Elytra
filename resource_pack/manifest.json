@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Invisible elytra",
+        "name": "Invisible elytra",
+        "uuid": "85e1816a-3a26-484e-bb51-0f1154d6d7b4",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 17, 30 ]
+    },
+    "modules": [
+        {
+            "description": "Invisible elytra",
+            "type": "resources",
+            "uuid": "1cc9355d-eede-44d3-a33b-9ecda7061817",
+            "version": [0, 0, 1]
+        }
+    ]
+}
